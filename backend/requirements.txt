@@ -1,0 +1,9 @@
+Django>=5.2,<5.3
+django-ninja>=1.4,<2.0
+django-cors-headers>=4.7,<5.0
+pymongo>=4.11,<5.0
+python-dotenv>=1.0,<2.0
+email-validator>=2.2,<3.0
+pytest>=8.3,<9.0
+pytest-django>=4.10,<5.0
+ruff>=0.11,<1.0
